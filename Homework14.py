@@ -102,4 +102,3 @@ else:
     print(" \nTask 3 Skipped")
 
 print("\n ---THE END---")
-print("Checking for git")
