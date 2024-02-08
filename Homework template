@@ -31,7 +31,6 @@ Task_function_list = []
 def Task1():  # For task 1
     Looper = "y"
     while Looper == "y":
-        print('EGGGGSELENTEEE')
         Replay = input("\nWant to try again? Enter 'y' if yes or ANY other key to continue: ")
         if Replay == "y":
             continue
@@ -42,7 +41,6 @@ Task_function_list.append(Task1)
 def Task2():  # For task 2
     Looper = "y"
     while Looper == "y":
-        print("ULALAL")
         Replay = input("\nWant to try again? Enter 'y' if yes or ANY other key to continue: ")
         if Replay == "y":
             continue
